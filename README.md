@@ -11,6 +11,6 @@ proactively identify deaths involving substances unable to be captured with ICD-
 Check out our public facing resources:
 - [TN Drug Overdose Dashboard](https://www.tn.gov/health/health-program-areas/pdo/pdo/data-dashboard.html)
 - [Drug Overdose Reports](https://www.tn.gov/health/health-program-areas/pdo/pdo/facts-figures.html)
-- Check out TDH's [Health Data Portal](https://healthdata.tn.gov/) to access our monthly nonfatal opioid overdose briefs
+- Check out TDH's [Health Data Portal](https://healthdata.tn.gov/) to access our monthly Nonfatal Opioid Overdose Briefs
 
 For additional questions or to connect with us, email us at TDH.Analytics@tn.gov
